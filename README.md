@@ -1,3 +1,7 @@
+UPDATED GAME IS IN "UpdatedStayUnder" BRANCH
+
+
+
 - **__Jordan's "Stay Under" Dev Progress__**
 - Created Square game object that moves back and forth on a platform on screen and stays within the boundary of the camera
 - Created rain using the particle system that triggers game over when the rain touches the square
