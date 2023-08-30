@@ -9,7 +9,7 @@
 - Created a High Score value for the game over screen that displays the player's longest time keeping the square protected
 - **__BUGS TO FIX__** 
 - Able to pause the game while game over screen is active **(FIXED)**
-- high score stays at 00:00 when game over screen is activated **(WORK IN PROGRESS)**
+- high score stays at 00:00 when game over screen is activated **(FIXED)**
 - After pressing the resume button on the pause screen it then takes two escape key clicks to pause the game again **(FIXED)**
 - Stopwatch does not stop when the game over screen is active **(FIXED)**
 - When the home button is pressed from the pause menu you must press the escape key to unpause the game **(FIXED)**
